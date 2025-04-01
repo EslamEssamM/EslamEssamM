@@ -16,7 +16,6 @@ I'm a passionate software developer with a keen interest in open source projects
 
 ## 📫 How to reach me
 
-- **Email:** eslam.essam@example.com
 - **LinkedIn:** [Eslam Essam](https://www.linkedin.com/in/eslam-essam-ss/)
 - **FaceBook:** [@EslamEssamM](https://www.facebook.com/profile.php?id=100040025566968)
 
