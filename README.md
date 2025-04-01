@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Eslam Essam! 👋
 
-<!--
-**EslamEssamM/EslamEssamM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a keen interest in open source projects and cloud computing. I love exploring new technologies and applying them to solve real-world problems. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, TypeScript, PHP
+- **Frameworks:** React, Next.js, Node.js, Express, Laravel, Flask
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud Providers:** AWS, GCP, Azure
+- **Databases:** PostgreSQL, MongoDB, MySQL
+
+## 📈 GitHub Stats
+
+![EslamEssamM's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamEssamM&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** eslam.essam@example.com
+- **LinkedIn:** [Eslam Essam](https://www.linkedin.com/in/eslam-essam-ss/)
+- **FaceBook:** [@EslamEssamM](https://www.facebook.com/profile.php?id=100040025566968)
+
+## 🌱 What I'm currently learning
+
+- Advanced cloud architecture on AWS
+- Microservices with Spring Boot and Kubernetes
+- Machine learning with TensorFlow and PyTorch
+- Python for Data Science
+- Nest.js framework
+
+## 💼 Experience
+
+- **Software Engineer at XYZ Corp (2023 - Present):** Working on scalable cloud solutions and microservices architecture.
+- **Backend Developer at ABC Inc (2021 - 2023):** Developed APIs and backend services using Flask and Node.js.
+
+## ⚡ Fun fact
+
+When I'm not coding, you can find me playing chess or exploring nature trails.
+
+---
+
+⭐️ From [EslamEssamM](https://github.com/EslamEssamM)
